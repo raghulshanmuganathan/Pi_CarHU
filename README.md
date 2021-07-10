@@ -1,7 +1,7 @@
-# Crankshaft
-A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
+# Pi CarHU - Raspberry Pi Car Head Unit
+This project is based on the open source project called CrankShaft [https://getcrankshaft.com/](discontinued) which makes use of the Open Auto to create a Android Auto car head unit using Raspberry Pi. The aim is to improve the UI and implement new features in the future.
 
-https://getcrankshaft.com/
+To get involved, contact me through email: raghul.shanmuganathan06@gmail.com
 
 # Docker build image
 
